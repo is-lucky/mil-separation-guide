@@ -1,0 +1,95 @@
+## SkillBridge Programs:
+- https://skillbridgelocator.com/
+- [Official DoD Skillbridge Site](https://skillbridge.osd.mil/locations.htm)
+  - In some cases it seems it might be better to find the recruiter email from this site than going to the company's home or careers pages
+- On clearancejobs search "skillbridge"
+- https://www.50-strong.us/
+- [Rate My Skillbridge](https://www.ratemyskb.com/)
+- [ ] Hiring our Heroes (includes many big names such as Lockheed, Amazon, LinQuest, Leidos, Microsoft, etc.)
+  - [ ] [Next Step Vets](https://www.hiringourheroes.org/career-services/education-networking/next-step-vets-tech/) - [article](https://www.hiringourheroes.org/stories/next-step-vets-for-hoh-partners/)
+- [ ] [Northrop Grumman](https://www.northropgrumman.com/jobs/northrop-grumman-military-internship-program-dod-skillbridge)
+  - Download and complete the DoD SkillBridge Prescreen Form
+  - Identify DoD SkillBridge Opportunity and apply (Be sure to attach your DoD SkillBridge Prescreen form to the application)
+  - If unable to find a DoD SkillBridge Role but see a full-time opportunity? Some full-time roles may consider using DoD SkillBridge. It is recommended that you put "DoD SkillBridge Eligible" on the top of your resume, complete the DoD SkillBridge Prescreen form, and upload it to all applications.
+- [ ] [SciTec, Inc.](https://apply.workable.com/scitec/j/550F076D23/)
+- [ ] [Rise8](https://job-boards.greenhouse.io/rise8/jobs/4359623007)
+- [ ] [BAE Systems](https://jobs.baesystems.com/global/en/skillbridge) (acquired Ball Aerospace)
+  - Interested military members should apply to desired career opportunities [here](https://jobs.baesystems.com/global/en/space-and-mission-systems) then complete the SkillBridge interest form to connect with our recruiters.
+- [ ] [Chenega MIOS](https://careers.chenegamios.com/lorton-va/chenega-mios-skillbridge-talent-network/88B29E15C1D647F985A49E37AEA11747/job/)
+- [ ] [Elgia](https://www.elgia.com/skillbridge)
+- [ ] Grey Matters Defense Solutions, LLC
+- [ ] 7Eagle Group
+- [ ] KYO - [site](https://www.thekyogroup.com/opportunities/)
+- [ ] HII Mission Technologies
+- [ ] N-ASK
+- [ ] [NetApp](https://www.netapp.com/esg/diversity-inclusion-belonging/skillbridge-program-military/)
+- [ ] Rincon Research (DSP products and services)
+
+### Direct Skillbridge providers:
+- [AbbVie](https://careers.abbvie.com/en/job/)
+- Headlamp Inc
+- Motorola Solutions
+- [Uber](https://www.uber.com/us/en/careers/mvp/)
+- [University of Chicago](https://veterans.uchicago.edu/omac-skillbridge/)
+- [General Dynamics](https://gdmissionsystems.com/careers/veterans/skillbridge) & [GDIT](https://www.gdit.com/careers/featured-career-stages/military-veterans/skillbridge/)
+- [Defense Unicorns](https://defenseunicorns.com/careers/4125063007)
+- [Boeing](https://boeing.avature.net/BeMVP)
+- [Lockheed Martin](https://www.lockheedmartin.com/en-us/careers/candidates/military-veterans/heroes.html)
+- [Northrop Grumman](https://www.northropgrumman.com/jobs/northrop-grumman-military-internship-program-dod-skillbridge)
+- [CACI](https://careers.caci.com/global/en/veterans)
+- [NetApp](https://www.netapp.com/esg/diversity-inclusion-belonging/skillbridge-program-military/)
+- [NASK](https://www.clearancejobs.com/jobs/7755540/skillbridge-software-developer)
+- [Cisco](https://www.cisco.com/c/en/us/about/csr/impact/education/veterans-program/pursue-your-career.html#~skillbridge)
+- [Aeris](https://aerisllc.com/about-aeris-atmospheric-science/aeris-careers/)
+- [Altagrove](https://www.altagrove.com/careers)
+- [Applied Network Solutions](https://go-ans.com/careers#skillbridge)
+- [Applied Research Associates](https://www.ara.com/careers/)
+- [Applied Research Solutions](https://www.appliedres.com/now-hiring)
+- [Arion Systems](https://www.arionsys.com/openings/)
+- [Torch Technologies](https://www.clearancejobs.com/jobs/8042227/skillbridge-data-developer)
+- [ARSIEM](https://www.arsiem.com/careers/)
+- [ASRC Federal Holding Company](https://www.asrcfederal.com/skillbridge/)
+- [AT&T](https://www.att.jobs/)
+- [Atomos Space](https://www.atomosspace.com/)
+- [Autonodyne](https://www.autonodyne.com/careers)
+- [BAE Systems](https://jobs.baesystems.com/global/en/skillbridge)
+- [BlueHalo](https://bluehalo.com/careers/veterans/)
+- CAE USA
+- [Chenega MIOS](https://careers.chenegamios.com/lorton-va/chenega-mios-skillbridge-talent-network/88B29E15C1D647F985A49E37AEA11747/job/)
+- Duality Systems LLC - Monument, CO
+- Grey Matters Defense Solutions
+- [Hawkeye 360](https://www.he360.com/careers-at-hawkeye-360/overview/)
+- [HII Mission Technologies](https://jobs.hii-tsd.com/)
+- [Persistent Systems](https://www.persistentsystems.com/featured-jobs/)
+- [Rincon Research Corp](https://www.rincon.com/careers.html)
+- [Rise8](https://www.rise8.us/careers)
+- [SciTec](https://scitec.com/join/#positions)
+- [Sports Media](https://www.sportsmedia.net/sports-media-interns/)
+- [Starfish Space](https://www.starfishspace.com/careers/)
+  - If reaching out to our POC by email, please include the following details at a minimum: timeline for SkillBridge start and military separation, willingness to work in-person from Seattle, roles of interest, and a current resume.
+- Technergetics
+- [KYO](https://www.thekyogroup.com/skillbridge-hire-talent)
+- TMC Design Corporation
+- [Trinity Information Technology](https://trinityit1.applicantstack.com/x/openings)
+### Third-Party Skillbridge providers:
+- [Hiring our Heroes](https://www.hiringourheroes.org/career-services/fellowships/internships/cfp/)
+  - [Sierra Nevada](https://www.clearancejobs.com/jobs/8002307/dod-skillbridge-software-engineer-active-duty-military-only)
+  - LinQuest
+  - Amazon
+- [Creating Coding Careers](https://cccareers.org/skillbridge/)
+  - 121-150 day program in a rolling cohort format, accommodates multiple start dates each month - teaches webdev and gives certs, then does job placement
+- [Shift](https://www.shift.org/)
+- 7 Eagle Group
+- Vets2PM
+- Stribling Enterprises
+- [Veterans Skillbridge Advantage](https://vsajobs.com/)
+### Training Skillbridge providers:
+Employer & training provider:
+- [MSSA-Microsoft](https://military.microsoft.com/mssa/choose-your-learning-path/)
+- [Splunk](https://www.splunk.com/en_us/careers/veterans.html) - ctrl+f "skillbridge"
+- [Nutanix](https://www.nutanix.com/company/careers/veterans)
+
+Exclusively training provider:
+- [Woz-U](https://woz-u.com/apply-dod-skillbridge/)
+- [Allegiant Giving/Vets](https://www.allegiantvets.org/info/programs/skillbridge/overview)
+- [LaunchCode](https://www.launchcode.org/course-catalog/software-development)

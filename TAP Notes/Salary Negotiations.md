@@ -1,0 +1,12 @@
+# Salary Negotiations
+- "In business and in life, you don’t get what you deserve, you get what you negotiate."
+- Employers may have you list your salary requirements on your application. It is okay to write “open” or “negotiable”
+- A cost-of-living comparison can provide you with additional qualitative information. **This comparison is for you, the candidate, and not the employer.** Employers don't care about what lifestyle you wish to maintain, only what you cost relative to comparable candidates
+- Salary information (US BLS, Glassdoor, Salary.com, Levels.fyi)
+- Cost-of-living calculators ([Numbeo](https://www.numbeo.com/cost-of-living/), [Bankrate](https://www.bankrate.com/real-estate/cost-of-living-calculator/), [SmartAsset](https://smartasset.com/mortgage/cost-of-living-calculator))
+- **Don’t negotiate right when the offer is made**, take the necessary time to analyze the offer package and come up with negotiation strategies
+- Don’t leverage one job offer against another job, it will typically backfire. Don’t assume that a company will match another company’s offer.
+- Don’t accept an offer until you’ve seen all the terms **in writing**
+- Don’t act too eager to accept, even if the offer was more than you expected, as most employers leave room to negotiate
+- **Know your walk-away amount**
+- **If the salary is the only obstacle, always negotiate before declining**

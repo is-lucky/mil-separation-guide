@@ -1,0 +1,31 @@
+# Networking
+- Leading method to get a job
+- Should be mutually beneficial
+- See DOLEW Appendix for example networking emails in different contexts
+## Expand Your Network
+- Ask a current contact to connect you with someone in their network
+- Re-connect with former co-workers, supervisors, professors, schools and businesses (alumin networks)
+- Volunteer with adjacent non-profits, educational, or charitable organizations and events
+- Conduct informational interviews with former and current employees in a field or company [see article](https://www.thebalancemoney.com/how-an-informational-interview-can-help-your-career-2058564)
+  - Have a professional introduction ready (short, concise intro describing who you are and what you are trying to do)
+  - Don't ask about openings, instead focus on learning more about the industry and potential next steps
+  - Ask open-ended and follow-up questions
+  - Ask for advice: interview tips, post-interview tips, skill set recommendations, resourcees to read.
+  - Ask if you can follow-up in the future if you have more questions
+  - Express gratitude
+  - Follow-up with updates
+- Join professional/trade organizations
+- Attend networking events (job fairs, resource fairs, etc.)
+- Find a mentor
+## LinkedIn
+- Match to Resume
+- Use keywords and use them more than once. The more a keyword appears in your profile, the higher you are on a recruiter’s search for that keyword
+- Use the Banner and Profile picture to demonstrate brand
+  - Face should take up approx. 50-60% fo the frame and be fairly recent
+  - Don't overdress/underdress for your career field
+- Members who include location recieve up to 19 times more profile views
+- Add industry even though it doesn't appear on profile info it does a lot of work on the back end
+- Summary is the number one profile section recuiters view
+  - It is okay to use personal pronouns
+  - Equivalent of the professional introduction or elevator speech
+- **Turn off "Notify Network"** while making edits to build your profile out
